@@ -4,4 +4,4 @@ title = "edkd"
 theme = "ananke"
 
 [params]
-  custom_css = [ "mystyle.css" ]
+  custom_css = [ "static/mystyle.css" ]
