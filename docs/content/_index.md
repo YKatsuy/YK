@@ -48,3 +48,17 @@ edkd [OPTIONS...] [NUMBERs...|CSV]
                           csvファイルはosmで扱うため．出力ファイルは"edkd.csv"という名前で出力する．
 ```
 
+## Install
+``` 
+$ brew tap YKatsuy/edkd
+$ brew install edkd
+```
+
+## Official reference site
+[![harversine](https://img.shields.io/badge/formula-harversine-9cf)](https://ja.wikipedia.org/wiki/大円距離)  
+[![Hubeny](https://img.shields.io/badge/formula-Hubeny-9cf)](https://www.trail-note.net/tech/calc_distance/)
+
+## GitHub
+[![github](https://img.shields.io/badge/GitHub-edkd-blueviolet)](https://github.com/YKatsuy/edkd)
+
+
